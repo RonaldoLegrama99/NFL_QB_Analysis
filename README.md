@@ -7,7 +7,8 @@ The following repository contains a Jupyter notebook analyzing Quarterback data 
 The notebook can be viewed directly on Github by clicking on the 'QuaterBack Predictions and Analysis' file. 
 
 ## Trying the Notebook
-With the inclusion of interactive plotly graphs, the best experience to view the notebook is through running it on Jupyter. A detailed explantion of downloading and running Jupyter can be found here: https://jupyter-notebook.readthedocs.io/en/stable/
+With the inclusion of interactive plotly graphs, the best experience to view the notebook is through running it on Jupyter.When running on Jupyter, use the 'Quarterback Predictions and Analysis-Plotly' file. 
+A detailed explantion of downloading and running Jupyter can be found here: https://jupyter-notebook.readthedocs.io/en/stable/
 
 ## The Data
 The two datasets used throughout the repository were compiled from Pro-Football-Reference. This website is a free, online database of Football statistics dating back to 1920. A link to their website can be found here: https://www.pro-football-reference.com/.
